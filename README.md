@@ -1,11 +1,7 @@
 <h1> ALISON DEYCLES👽😎</h1>
 
-<h2> 🌱 Estou estudando Análise e Desenvolvimento de Sistemas </h2>
-<div align="center">
-  <a href="https://github.com/DEYCLES">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEYCLES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEYCLES&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<h2>🤖 Análise e Desenvolvimento de Sistemas </h2>
+
   <p>
   <h2> 📚Estou aprendendo: </h2>
   
@@ -24,3 +20,10 @@
  
   <a href="https://www.linkedin.com/in/deycles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+
+<div align="center">
+  <a href="https://github.com/DEYCLES">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEYCLES&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEYCLES&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
